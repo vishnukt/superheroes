@@ -5,4 +5,4 @@ ModuleName=script
 
 [script]
 ImageDir=/usr/share/plymouth/themes/superheroes
-ScriptFile=/usr/share/plymouth/themes/marvel1/superheroes.script
+ScriptFile=/usr/share/plymouth/themes/superheroes/superheroes.script
