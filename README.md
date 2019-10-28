@@ -7,7 +7,7 @@ This is a Plymouth theme created for Ubuntu 16.04 (can be also used in other Lin
 
 Clone this repository.
 
-    sudo git clone https://github.com//
+    sudo git clone https://github.com/vishnukt/superheroes.git
     
 Install the theme.
 
