@@ -24,3 +24,5 @@ Update the initramfs image.
 Now reboot.
 
 If you want to install this on < Ubuntu 16.04, change the path from /usr/share/plymouth to /lib/plymouth/ . You need to do this on the superheroes.plymouth file also.
+
+![1](https://github.com/vishnukt/AR-Magazine-18---GEC-WAYANAD/blob/master/Readme_Images/superhero.gif)
