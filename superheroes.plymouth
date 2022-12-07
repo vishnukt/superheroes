@@ -4,5 +4,5 @@ Description=This is a Plymouth theme with Superheroes animation.
 ModuleName=script
 
 [script]
-ImageDir=/usr/share/plymouth/themes/superheroes
+ImageDir=/usr/share/plymouth/themes/superheroes/images
 ScriptFile=/usr/share/plymouth/themes/superheroes/superheroes.script
